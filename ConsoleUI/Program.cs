@@ -13,7 +13,8 @@ namespace ConsoleUI
         {
             // DTO : Data Transformation Object
             ProductTest();
-            //CategoryTest();
+            // IoC
+            // CategoryTest();
         }
 
         private static void CategoryTest()
